@@ -1,0 +1,18 @@
+{
+  "name": "vite-plugin-upload",
+  "version": "1.0.0",
+  "description": "vite tools for upload file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roninliu/vite-plugin-upload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roninliu/vite-plugin-upload/issues"
+  },
+  "author": "RoninLiu",
+  "license": "ISC"
+}
