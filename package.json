@@ -13,6 +13,7 @@
   "bugs": {
     "url": "https://github.com/roninliu/vite-plugin-upload/issues"
   },
+  "homepage": "https://github.com/roninliu/vite-plugin-upload#README.md",
   "author": "RoninLiu",
   "license": "ISC"
 }
